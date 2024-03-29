@@ -12,5 +12,5 @@
 <p>Challenge: You know you're getting old when you hear the music these kids are putting out and all you think is "no thank you."Anyway, I'm too old for this or maybe I need some cybernetic ears or something. Maybe you'll like these groovy tunes.</p>
 <br>
 <p>We get a file titled sick_jams_dude.wav that plays some seemingly home recorded music, with a weird beeping noise. After deciding that this isn't morse code, I put it into audacity to look for any weird patterns in the audio waves.</p>
-<img href="https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsaudacity.PNG">
+<img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsaudacity.PNG">
 <p>Hmm. Nothing weird, is there a way t</p>
