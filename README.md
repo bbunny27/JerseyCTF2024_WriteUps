@@ -4,8 +4,8 @@
 <h4>Substitute-Detail-Torrent(Forensics)</h4>
 <p>Challenge: We've been given a file and need to figure out what url it was downloaded from.</p><br>
 <p>How I solved: This is an unfamiliar file type to me as it is a .wim file titled Blob.wim.</p>
-<p>To start I tried to open is using my notepad on my host machine (windows 10). When you do this, you see the flag! https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/eca23141-9d6f-4c51-9e39-bd569b32579d
-</p>
+<p>To start I tried to open is using my notepad on my host machine (windows 10). When you do this, you see the flag! https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/eca23141-9d6f-4c51-9e39-bd569b32579d</p>
+<img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/eca23141-9d6f-4c51-9e39-bd569b32579d">
 <p>jctf{https://www.NTFS/File/Metadata}</p>
 <br>
 <h4>Groovy(Forensics)</h4>
