@@ -16,5 +16,12 @@
 <p>Hmm. Nothing weird, is there another view of the file?</p>
 <img src"https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsflag.PNG">
 <p>Bingo! The flag is jctf{wav1ng_fr0m_th3_futur3}</p>
-<h4>Living-On-The-Edge(Forensics)</h4>
-<p>Unfortunatly, I didn't take pictures to document this one while I was</p>
+<h4>Rescue-Mission(Forensics)</h4>
+<p>Challenge: Linux really lets you do anything... when messing around with my new install, I managed to delete my bootloader! Now I can't get in when I had an important file on my desktop... at least I virtualized it, maybe you can get the data out of it?</p>
+<p>I definitely didn't do this one the intended way. However, I still think it's interesting. In this problem we get a .vdi file which acts as a virtual machine virtual disk. It has no bootloader, so we cannot boot into the virtual machine to access the files of the machine. However, if we attach it to an already existing virtual machine, we can view the files!</p>
+<img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/5d258b42-12ae-4850-bdb9-018138e82fbc">
+<p>Lets load up my kali machine and give it a look!</p>
+<img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/9853b21c-3b36-4741-a826-c1853287bc27">
+<p>I navigate to the desktop of the file system where I find this png. Looks Like I got it!</p>
+
+
