@@ -14,7 +14,7 @@
 <p>We get a file titled sick_jams_dude.wav that plays some seemingly home recorded music, with a weird beeping noise. After deciding that this isn't morse code, I put it into audacity to look for any weird patterns in the audio waves.</p>
 <img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsaudacity.PNG">
 <p>Hmm. Nothing weird, is there another view of the file?</p>
-<img src"https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsflag.PNG">
+<img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/blob/main/sickjamsflag.PNG">
 <p>Bingo! The flag is jctf{wav1ng_fr0m_th3_futur3}</p>
 <h4>Rescue-Mission(Forensics)</h4>
 <p>Challenge: Linux really lets you do anything... when messing around with my new install, I managed to delete my bootloader! Now I can't get in when I had an important file on my desktop... at least I virtualized it, maybe you can get the data out of it?</p>
