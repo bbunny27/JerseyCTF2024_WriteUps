@@ -23,7 +23,3 @@
 <p>Lets load up my kali machine and give it a look!</p>
 <img src="https://github.com/bbunny27/JerseyCTF2024_WriteUps/assets/143891068/9853b21c-3b36-4741-a826-c1853287bc27">
 <p>I navigate to the desktop of the file system where I find this png. Looks Like I got it!</p>
-##<h4>Heap 0 (Binary Exploitation)</h4>
-##<p>Challenge: Are overflows just a stack conern?</p></p>
-##<p>This challenge was really easy even though binary exploitation is not my primary field of focus in CTFs. I recognized that this was likely a buffer overflow challenge, so I simply typed in 20 characters to test and it immediately output the flag.</p>
-##<p>flag: picoCTF{my_first_heap_overflow_e4c92a78}</p>
